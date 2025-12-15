@@ -102,7 +102,10 @@ Using `make_pipeline()`:
 * Increases in population would most likely affect Central and South Brooklyn the most.
 * The most impacted zip codes contain areas with high population density and few immediate subway options.
 
-
+<div align="center">
+<img width="1158" height="646" alt="Screenshot 2025-12-14 at 8 14 24 PM" src="https://github.com/user-attachments/assets/1bdf0a5a-b1e1-4bd0-9c6c-343a6600e2c2" />
+<img width="349" height="372" alt="Screenshot 2025-12-14 at 8 16 28 PM" src="https://github.com/user-attachments/assets/0e185c21-cd99-402b-9cc0-6caa7b870479" />
+</div>
 
 
 ---
