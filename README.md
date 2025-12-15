@@ -89,6 +89,8 @@ Using `make_pipeline()`:
 |:-----------:|:-----:|
 |    0.998    | 0.739 |
 
+<img width="600" height="416" alt="image" src="https://github.com/user-attachments/assets/2d6e28e5-8194-4146-bf8b-5cc032d46717" />
+
 </div>
 
 * The training R2 is extremely high, telling us that the model is able to fit the patterns in the training data very accurately. This is also shown by the blue line.
