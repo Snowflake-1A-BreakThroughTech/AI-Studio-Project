@@ -51,9 +51,9 @@ This ML Challenge Project of navigating healthcare deserts was assigned to us by
 Our AI Studio host company was [Snowflake](https://www.snowflake.com/en/), and our project objective and scope was to identify vulnerable areas where the residents might have difficulties on having access to transportation, as low access to transit causes low access to healthcare amenities. We aimed to analyze gaps and risks that highlight the areas with the most needs, particularly with increases in population.
 
 New York City suffers from borough inequality, and many parts of Brooklyn do not have the transportation access they need to access different facilities such as healthcare. Our work is designed for: 
-Urban planners and transportation agencies seeking to identify neighborhoods with limited access to public transportation
-Local government officials and community organizations working to allocate resources and advocate for better transit options
-Residents living in transportation deserts who may benefit from improved transit accessibility and planning efforts
+* Urban planners and transportation agencies seeking to identify neighborhoods with limited access to public transportation.
+* Local government officials and community organizations working to allocate resources and advocate for better transit options.
+* Residents living in transportation deserts who may benefit from improved transit accessibility and planning efforts.
 
 ---
 
