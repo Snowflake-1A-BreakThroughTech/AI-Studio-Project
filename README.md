@@ -7,7 +7,9 @@
 | Hannah Lee   | @lee-H1208 | OSM Data Collection & Preprocessing, Model Training and Evaluation, Streamlit Map Development |
 | Charles Walford   | @charleswal-a | Data collection & Processing, Statistics and Scores Calculations, Streamlit Table Development |
 | Emily Ren  | @seren5 | MTA Data Collection & Preprocessing, Data Visualization |
+| Nidhi Sakpal | @nidhisakpal | Data Collection & Preprocessing, Streamlit Map Development
 | Emily Olivares  | @ EmilyOliv | Data collection, Population Data Preprocessing and Statistics |
+
 
 ---
 
